@@ -35,13 +35,9 @@ ENV/
 
 # Project specific
 input/*
-!input/.gitkeep
+!input/examples/
 output/*
-!output/.gitkeep
-examples/input/*
-!examples/input/.gitkeep
-examples/output/*
-!examples/output/.gitkeep
+!output/examples/
 
 # Docker
 .docker/
