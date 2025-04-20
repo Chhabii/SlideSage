@@ -2,6 +2,7 @@
 
 SlideSage is an intelligent presentation analysis tool that extracts and understands content from PowerPoint presentations. It combines advanced PDF parsing with AI-powered image understanding to provide deep insights into your slides.
 
+![slidesage](https://github.com/user-attachments/assets/d7425a79-1a20-4ab9-b0d2-21ad5a67e35f)
 ## Features
 
 - Convert PPTX files to PDF and extract content
