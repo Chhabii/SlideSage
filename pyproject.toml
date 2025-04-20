@@ -1,0 +1,16 @@
+[project]
+name = "slidesage"
+version = "0.1.0"
+description = "An intelligent presentation analysis tool that extracts and understands content from PowerPoint presentations"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "aspose-slides>=25.4.0",
+    "comtypes>=1.4.10",
+    "langchain-ollama>=0.3.2",
+    "marker-pdf>=1.6.2",
+    "ppt2pdf>=0.0.3",
+    "python-pptx>=1.0.2",
+    "spire-presentation>=10.1.0",
+    "weasyprint>=65.1",
+]
